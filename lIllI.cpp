@@ -15,6 +15,11 @@
 #define llIIIl {
 #define llIIII }
 #define lIllll "\n"
+#define IIIlll +
+#define IllllI -
+#define lIlIlI *
+#define IlIlIl /
+#define IIllII =
 
 lllllI llllIl llllII lllIll llIIIl
   lllIlI lllIII llIlll llIllI llIlIl llIllI lIllll llIlII
